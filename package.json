@@ -1,0 +1,16 @@
+{
+  "name": "sapien",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Lines <roy@roylines.co.uk> (http://roylines.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.0",
+    "lodash": "^3.10.0",
+    "serialport": "^1.7.4"
+  }
+}
